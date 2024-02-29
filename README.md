@@ -213,17 +213,17 @@ If you use Windows Defender, it is advised that you set up an Exception for the 
 
 ### Widescreen Fixes
 
-Ender needs to write this section if applicable
+Enable the "Complete Widescreen Fix for SkyUI" mod in the "Optional Mods" separator if you use have a 21:9 or 32:9 monitor.
 
 ### Controller and Gamepad Setup
 
-Ender needs to write this section if applicable
+Simply plug in your controller anytime you want and you are good to go.
 
 ## Playing the List
 
 ### Starting the Game
  
-Ender Needs to write this section
+Click "Run" in the top right of Mod Organizer. Start a new game. You will have the option to skip the Helgen attack scene and start at the exit of the Helgen Keep cave.
 
 
 ## Updating the modlist
