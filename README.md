@@ -246,4 +246,3 @@ Simply delete the folder. Congratulations, you have uninstalled Morning Star.
 ## Credits and Thanks
 
 - _YOU_ for reading this.
-- 
