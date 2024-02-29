@@ -57,9 +57,9 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 
 | Spec Category | Recommended Specs (1080p) |
 |     :---:    |     :---:     
-| **CPU**   | Ryzen 5 / Intel i5 Processor |
-| **Video Card**    | RTX 2060 / RX 5600 XT |
-| **Ram**    | 16GB (2x8) |
+| **CPU**   | AMD Ryzen 5 / Intel i5 Processor |
+| **Video Card**    | NVIDIA RTX 2060 / AMD RX 5600 XT |
+| **Ram**    | 16GB DDR4 (2x8) |
 | **Storage**    | SATA SSD |
 
 Please note that the below numbers are current estimates and the actual may be larger or smaller depending on version.
