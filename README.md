@@ -220,7 +220,7 @@ Simply plug in your controller anytime you want and you are good to go.
 
 ### Starting the Game
  
-Click "Run" in the top right of Mod Organizer. Start a new game. You will have the option to skip the Helgen attack scene and start at the exit of the Helgen Keep cave.
+Click "Run" in the top right corner of Mod Organizer. Start a new game. You will have the option to skip the Helgen attack scene and start at the exit of the Helgen Keep cave.
 
 
 ## Updating the modlist
