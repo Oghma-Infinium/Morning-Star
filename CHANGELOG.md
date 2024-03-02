@@ -10,9 +10,55 @@
 ---
 
 # Changelog
+- [1.0.3](#103) March 2 2024
 - [1.0.2](#102) March 1 2024
 - [1.0.1](#101) February 27 2024
 - [1.0.0](#100) February 26 2024
+
+## 1.0.3
+
+Key Info
+
+ - This update is Save-Safe
+ - Save in an interior before updating
+
+<Details>
+<summary>Patch Notes</summary>
+
+### Balancing Changes
+
+ - Mentor's Ring: Changed enchantment from +100 Magicka to +50 Magicka, changed value from 1000 to 500
+
+### Bug Fixes
+ 
+ - The cart ride from the intro scene should no longer bug out (The mesh was being overwritten)
+
+</Details>
+
+<Details>
+<summary>Changes</summary>
+
+### Updated
+
+ - Morning Star - DynDOLOD Output v1.0.3
+ - Morning Star - TexGen Output v1.0.3
+
+### Added
+
+ - Advanced Vanilla Ice
+ - Aspens Ablaze
+ - Icy Mesh Remaster
+ - Simple Fishing Overhaul - FLM Addon
+ - Skyland Happy Little Trees Bark - Aspens Ablaze Patch
+ - TB's Improved Dust Particles
+
+### Removed
+
+ - Morning Star - Occlusion Data (Now included in DynDOLOD Output)
+ - Morning Star - xLODGen Output (Cathedral Landscapes already comes with terrain LOD textures)
+ - Vanilla Ice Adjusted
+
+</Details>
 
 ## 1.0.2
 
