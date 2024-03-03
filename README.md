@@ -55,12 +55,12 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 ### System Requirements
 
 
-| Spec Category | Recommended Specs (1080p) |
+| Spec Category | Recommended Specs (1080p at 60Fps) |
 |     :---:    |     :---:     
-| **CPU**   | AMD Ryzen 5 / Intel i5 Processor |
-| **Video Card**    | NVIDIA RTX 2060 / AMD RX 5600 XT |
-| **Ram**    | 16GB DDR4 (2x8) |
-| **Storage**    | SATA SSD |
+| **CPU**   | AMD Ryzen 5 2nd Gen / Intel i5 8th Gen |
+| **GPU**    | NVIDIA RTX 1060 / AMD RX 580 |
+| **RAM**    | 16GB DDR4 (2x8) |
+| **Storage**    | NVMe or SATA SSD |
 
 Please note that the below numbers are current estimates and the actual may be larger or smaller depending on version.
 
