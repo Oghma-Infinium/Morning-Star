@@ -10,10 +10,31 @@
 ---
 
 # Changelog
+- [1.0.4](#104) March 5 2024
 - [1.0.3](#103) March 2 2024
 - [1.0.2](#102) March 1 2024
 - [1.0.1](#101) February 27 2024
 - [1.0.0](#100) February 26 2024
+
+## 1.0.4
+
+Key Info
+
+ - This update is Save-Safe
+
+<Details>
+<summary>Changes</summary>
+
+### Added
+
+ - Convenient Dialogue UI
+ - Skyking Signs
+
+### Removed
+
+- Better Dialogue Controls
+
+</Details>
 
 ## 1.0.3
 
