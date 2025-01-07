@@ -8,19 +8,19 @@
 </p>
 
 ---
+# ⚠ ! This modlist has been discontinued ! ⚠
 
-# Attention
-
-**Modlist Support: [Waking Dreams](https://discord.gg/4WwqfK5yHg)**
+## Attention
 
 **You must update Skyrim to the latest version (1.6.1170) on Steam to install this list.**
 
 # Contents
-- [Attention](#attention)
+- [⚠ ! This modlist has been discontinued ! ⚠](#--this-modlist-has-been-discontinued--)
+  - [Attention](#attention)
 - [Contents](#contents)
   - [Introduction](#introduction)
     - [System Requirements](#system-requirements)
-  - [Installation](#installation-1)
+  - [Installation](#installation)
     - [Pre-Installation](#pre-installation)
       - [Installing Microsoft Visual C++ Redistribution Package](#installing-microsoft-visual-c-redistribution-package)
       - [Pagefile and crash prevention](#pagefile-and-crash-prevention)
@@ -39,7 +39,6 @@
     - [Controller and Gamepad Setup](#controller-and-gamepad-setup)
   - [Playing the List](#playing-the-list)
     - [Starting the Game](#starting-the-game)
-    - [Note For Content Creators](#note-for-content-creators)
   - [Updating the modlist](#updating-the-modlist)
   - [Removing the Modlist](#removing-the-modlist)
   - [Credits and Thanks](#credits-and-thanks)
@@ -158,7 +157,7 @@ Downloading and installing Morning Star can take a while depending on your inter
 > The download location does not need to be on a SSD, but it makes installing faster.
 4. Press the play button to begin.
 5. Turn on your favorite show or a nice long video essay Wabbajack does its thing. Alternatively read through this readme again.
-6. If the installation is successful, then rejoice and move onto [post installation](#post-installation-and-optional-setup). If the installation is unsuccessful, follow what is below or join the [discord server](https://discord.gg/WakingDreams) for support.
+6. If the installation is successful, then rejoice and move onto [post installation](#post-installation-and-optional-setup).
 
 ### Problems with installation
 

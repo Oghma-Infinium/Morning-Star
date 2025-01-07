@@ -7,9 +7,11 @@
   <a href="https://loadorderlibrary.com/lists/morning-star">Modlist</a> ]
 </p>
 
+# ⚠ ! This modlist has been discontinued ! ⚠
+
 ---
 
-# Changelog
+## Changelog
 - [1.0.4](#104) March 5 2024
 - [1.0.3](#103) March 2 2024
 - [1.0.2](#102) March 1 2024
